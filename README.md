@@ -16,5 +16,4 @@ I enjoy building web applications, learning new technologies, and improving my p
 ![](https://streak-stats.demolab.com/?user=dizaasmira&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dizaasmira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-"A Hearth of Steel Starts to Grow."
 
